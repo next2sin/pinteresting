@@ -1,6 +1,6 @@
 #my site
 
 This is the pinteresting sample for
-My Site(hhtp://onemonthrails.com)
+My Site(http://onemonthrails.com)
 
 by Joycel Lagarza
